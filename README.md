@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zhanserikkalmukhambet&label=Profile%20views&color=0e75b6&style=flat" alt="zhanserikkalmukhambet" /> </p>
+
 
 - 💬 Ask me about **python-django, golang, java**
 

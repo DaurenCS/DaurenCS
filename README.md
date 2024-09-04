@@ -5,7 +5,7 @@
 
 
 
-- 💬 Ask me about **Django, FastAPI, React**
+- 💬 Ask me about **Python and Golang**
 
 - 📫 How to reach me **kozhakhmetovdauren18@gmail.com**
 
